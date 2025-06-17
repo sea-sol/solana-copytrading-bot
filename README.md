@@ -24,4 +24,3 @@ Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target walle
 
   Using pumpfun program id and raydium module you can make copy trasaction.
 
-[Andrii](https://t.me/andrisol)
