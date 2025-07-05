@@ -2,7 +2,7 @@
 ![copytradingbot](https://github.com/user-attachments/assets/e00dd28f-61b2-4b0e-ad97-646d1e4173f3)
 
 
-Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target wallet's trading activity and copy transactions on Solana Raydium & PumpFun. as target trader.
+Solana trading bot trading bot (Raydium) which subscribe target wallet's trading activity and copy transactions on Solana Raydium. as target trader.
 
 1. ## Transaction
 - Target Wallet: GXAtmWucJEQxuL8PtpP13atoFi78eM6c9Cuw9fK9W4na
@@ -22,5 +22,5 @@ Solana trading bot trading bot (Raydium & Pump.fun) which subscribe target walle
 
 - ### Make Copy transaction:
 
-  Using pumpfun program id and raydium module you can make copy trasaction.
+  Using program id and raydium module you can make copy trasaction.
   [Andrii](https://t.me/andrisol)
