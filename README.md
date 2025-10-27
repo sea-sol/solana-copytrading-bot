@@ -23,4 +23,3 @@ Solana trading bot trading bot (Raydium) which subscribe target wallet's trading
 - ### Make Copy transaction:
 
   Using program id and raydium module you can make copy trasaction.
-  [Andrii](https://t.me/andrisol)
